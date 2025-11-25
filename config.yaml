@@ -1,0 +1,92 @@
+port: 8890
+proxies:
+    - name: "\U0001F1ED\U0001F1F0 套餐到期日期：2026-07-06"
+      type: trojan
+      server: 111.230.115.123
+      port: 4032
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1ED\U0001F1F0 套餐重置日期：2025-12-09"
+      type: trojan
+      server: 111.230.115.123
+      port: 4032
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1ED\U0001F1F0 订阅获取时间：2025-11-26 03:17"
+      type: trojan
+      server: 111.230.115.123
+      port: 4032
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1ED\U0001F1F0 香港 01"
+      type: trojan
+      server: 111.230.115.123
+      port: 4032
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1ED\U0001F1F0 香港 02"
+      type: trojan
+      server: 111.230.115.123
+      port: 4033
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1ED\U0001F1F0 香港 03"
+      type: trojan
+      server: 111.230.115.123
+      port: 4034
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1E8\U0001F1F3 台湾 01"
+      type: trojan
+      server: 111.230.115.123
+      port: 4035
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1E8\U0001F1F3 台湾 02"
+      type: trojan
+      server: 111.230.115.123
+      port: 4036
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1E8\U0001F1F3 台湾 03"
+      type: trojan
+      server: 111.230.115.123
+      port: 4037
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1F8\U0001F1EC 新加坡 01"
+      type: trojan
+      server: 111.230.115.123
+      port: 4038
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1F8\U0001F1EC 新加坡 02"
+      type: trojan
+      server: 111.230.115.123
+      port: 4039
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1F8\U0001F1EC 新加坡 03"
+      type: trojan
+      server: 111.230.115.123
+      port: 4040
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1EF\U0001F1F5 日本 01"
+      type: trojan
+      server: 111.230.115.123
+      port: 4041
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1EF\U0001F1F5 日本 02"
+      type: trojan
+      server: 111.230.115.123
+      port: 4042
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1EF\U0001F1F5 日本 03"
+      type: trojan
+      server: 111.230.115.123
+      port: 4043
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1FA\U0001F1F2 美国 01"
+      type: trojan
+      server: 111.230.115.123
+      port: 4044
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1FA\U0001F1F2 美国 02"
+      type: trojan
+      server: 111.230.115.123
+      port: 4045
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
+    - name: "\U0001F1FA\U0001F1F2 美国 03"
+      type: trojan
+      server: 111.230.115.123
+      port: 4046
+      password: 7988b52e-0d67-3643-aa31-f664633f0658
